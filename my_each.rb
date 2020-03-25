@@ -13,7 +13,7 @@ end
   
 end
 
-my_each(list) {|i| puts "here is #{i}."
+# my_each(list) {|i| puts "here is #{i}."
 
 # my_each(words) do |word|
 
